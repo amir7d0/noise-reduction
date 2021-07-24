@@ -14,19 +14,19 @@ Filtered images are in `filtered-images/` and filtered images mat files are in `
 
 ### Noisy and Original Images
 Input mat file contains original image and noisy image
-![ti](md-image/noisy-original.jpg)
+![ti](filtered-images/noisy-original2.jpg)
 
 ---
 ### Median Filter
-![ti](md-image/median.jpg)
+![ti](filtered-images/median.jpg)
 
 ---
 ### Mean Filter
-![ti](md-image/mean_M2=5.jpg)
+![ti](filtered-images/mean_M2=5.jpg)
 
 ---
 ### Max Filter
-![ti](md-image/max.jpg)
+![ti](filtered-images/max.jpg)
 
 
 
