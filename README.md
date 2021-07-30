@@ -9,7 +9,7 @@ Filtered images are in `filtered-images/` and filtered images mat files are in `
 - IPython
 - matplotlib
 - numpy
--  scipy
+- scipy
 
 ---
 ---
@@ -29,6 +29,3 @@ Input mat file contains original image and noisy image
 ---
 ### Max Filter
 ![ti](filtered-images/max.jpg)
-
-
-
